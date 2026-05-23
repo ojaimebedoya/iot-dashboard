@@ -1,6 +1,6 @@
-# Streamlit Cloud - Dependencias compatibles
-streamlit==1.31.0
-psycopg2-binary==2.9.9
-pandas==2.0.3
-plotly==5.18.0
-numpy==1.24.3
+# Streamlit Cloud - Configuración probada ✅
+streamlit
+psycopg2-binary==2.9.5
+pandas
+plotly
+numpy
