@@ -1,6 +1,4 @@
-# Streamlit Cloud - Configuración probada ✅
 streamlit
-psycopg2-binary==2.9.5
 pandas
 plotly
-numpy
+psycopg2-binary
